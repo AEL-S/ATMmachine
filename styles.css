@@ -1,0 +1,52 @@
+body{
+    background-color: #798288;
+    background-image: linear-gradient(135deg, #798288 0%, #00010a 50%, #ffffff 100%);
+    color:white;
+    text-align: center;
+    font-family: 'Orbitron', sans-serif;
+    padding-top: 100px;
+    overflow: hidden;
+    justify-content: center;
+}
+
+h1{
+  color:orange;
+  margin-bottom: 100px;
+  font-size: 3em;
+}
+
+form{
+    position: relative;
+    border: white;
+    border-style:solid;
+}
+
+select{
+    background-color: #555558;
+    color:orange;
+    position: relative;
+    left:1em;
+    margin-top: 2em;
+}
+
+input{
+    background-color: #555558;
+    color:orange;
+    position: relative;
+   right: 100px;
+}
+
+label{
+    color:orange;
+    margin-bottom: 100px;
+    position: relative;
+    top: 50px;
+    left: 50px;
+    text-decoration: underline white;
+}
+
+label1{
+    text-align: center;
+    color:white;
+} 
+
